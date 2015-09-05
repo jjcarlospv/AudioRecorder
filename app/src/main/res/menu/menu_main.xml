@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/action_switch_record"
+          android:title="@string/rec"
+          android:orderInCategory="100"
+          app:showAsAction="never" />
+
+    <item android:id="@+id/action_take_photo"
+        android:title="Tomar foto"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

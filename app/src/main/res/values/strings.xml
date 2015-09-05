@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AudioRecorder</string>
+
+    <string name="hello_world">Listo para grabar!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rec">Grabar</string>
+    <string name="stop">Detener</string>
+    <string name="rec_error">Error</string>
+    <string name="ready">Listo</string>
+    <string name="take_photo_error">No hay aplicación para tomar foto</string>
+</resources>
